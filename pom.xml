@@ -329,9 +329,9 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/8nevil8/htmlunit.git</connection>
-        <developerConnection>scm:git:git@github.com:8nevil8/htmlunit.git</developerConnection>
-        <url>https://github.com/8nevil8/htmlunit</url>
+        <connection>scm:git:git://github.com/hudson/htmlunit.git</connection>
+        <developerConnection>scm:git:git@github.com:hudson/htmlunit.git</developerConnection>
+        <url>https://github.com/hudson/htmlunit</url>
     </scm>
 
     <repositories>
